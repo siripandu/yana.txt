@@ -1,0 +1,3 @@
+haa.txt file s added to the staging area
+committed to the local rpo 
+push the cde we are using git push origin master
